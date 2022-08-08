@@ -1,0 +1,8 @@
+/target/
+
+.settings/
+.classpath
+.project
+.ideia
+.ntlmclient.iml
+src/test/java/ntlmclient/AppTest.java
